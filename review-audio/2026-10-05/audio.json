@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "version": "boundary-review-2026-10-05-v1",
+  "license_notice": "Short exact excerpts of the already published contributor-authorized LyricFlow testing source. Copyright remains with the respective rights holders; no broader license or certified transcript is claimed.",
+  "parent_source": {
+    "url": "https://github.com/jorqen/LyricFlow-test-data/releases/download/broadcast-2026-09-27-v2/broadcast-scripture.wav",
+    "sha256": "d62d8a0dea281da33fc74c9c894103d8cfce14d7689d92368581cf8f35a72378",
+    "bytes": 10240080,
+    "sample_rate": 16000,
+    "frames": 2560000
+  },
+  "assets": [
+    {
+      "id": "clip-A",
+      "filename": "LyricFlow-Matthew-11-17-clip-A.wav",
+      "sha256": "a5af9fb7b5f5cc14da612130bed719bdc841edd96b9df37b19bd74182d8ff007",
+      "bytes": 768080,
+      "sample_rate": 16000,
+      "channels": 1,
+      "format": "WAV",
+      "subtype": "FLOAT",
+      "frames": 192000,
+      "parent": "broadcast-scripture.wav",
+      "start_sample": 1312000,
+      "end_sample": 1504000
+    }
+  ],
+  "human_reviewed": false
+}
