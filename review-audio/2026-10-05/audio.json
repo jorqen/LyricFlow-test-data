@@ -23,6 +23,20 @@
       "parent": "broadcast-scripture.wav",
       "start_sample": 1312000,
       "end_sample": 1504000
+    },
+    {
+      "id": "clip-B",
+      "filename": "LyricFlow-Matthew-11-18-19-clip-B.wav",
+      "sha256": "f107df537b7979b85c0ce504068cabbee158e5546bb0818f00ca96361c9a743c",
+      "bytes": 704080,
+      "sample_rate": 16000,
+      "channels": 1,
+      "format": "WAV",
+      "subtype": "FLOAT",
+      "frames": 176000,
+      "parent": "broadcast-scripture.wav",
+      "start_sample": 1648000,
+      "end_sample": 1824000
     }
   ],
   "human_reviewed": false
